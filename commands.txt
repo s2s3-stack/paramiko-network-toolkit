@@ -1,0 +1,5 @@
+sys
+snmp-agent community read sdasfagFDAS
+sa f
+
+
