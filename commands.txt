@@ -1,5 +1,4 @@
 sys
 ntp-service enable
-ntp-service unicast-server 172.18.247.6 vpn-instance mgmt
 sa f
 #
