@@ -1,0 +1,9 @@
+2025-12-13 17:27:15,520 - root - INFO - 网络设备检查器初始化完成，配置: {'ssh_timeout': 10, 'cmd_timeout': 10, 'max_workers': 5, 'readonly_mode': True, 'test_mode': False, 'max_test_devices': 3, 'rate_limit_delay': 0.5, 'safe_disconnect': True, 'enable_logging': False, 'log_file': 'network_checker.log'}
+2025-12-13 17:27:15,521 - 192.168.56.102 - INFO - 开始处理设备 192.168.56.102
+2025-12-13 17:27:15,522 - root - INFO - 正在连接设备: 192.168.56.102
+2025-12-13 17:27:15,521 - 192.168.56.104 - INFO - 开始处理设备 192.168.56.104
+2025-12-13 17:27:15,534 - root - INFO - 正在连接设备: 192.168.56.104
+2025-12-13 17:27:25,540 - root - ERROR - [192.168.56.104] 连接失败: timed out
+2025-12-13 17:27:25,540 - root - ERROR - [192.168.56.102] 连接失败: timed out
+2025-12-13 17:27:25,540 - 192.168.56.104 - ERROR - 连接失败（checker）
+2025-12-13 17:27:25,541 - 192.168.56.102 - ERROR - 连接失败（checker）

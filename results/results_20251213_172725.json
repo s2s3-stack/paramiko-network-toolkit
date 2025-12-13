@@ -1,0 +1,12 @@
+[
+  {
+    "ip": "192.168.56.104",
+    "success": false,
+    "error": "连接失败（checker）"
+  },
+  {
+    "ip": "192.168.56.102",
+    "success": false,
+    "error": "连接失败（checker）"
+  }
+]

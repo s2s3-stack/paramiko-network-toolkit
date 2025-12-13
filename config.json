@@ -1,0 +1,20 @@
+{
+  "mail": {
+    "enabled": true,
+    "type": "qq",
+    "sender": "1132634029@qq.com",
+    "password": "tchjfajfgsuehcah",
+    "receivers": [
+      "1132634029@qq.com"
+    ],
+    "subject_prefix": "H3C批量命令执行报告"
+  },
+  "ssh": {
+    "timeout": 10,
+    "port": 22
+  },
+  "execution": {
+    "max_workers": 5,
+    "command_timeout": 10
+  }
+}
