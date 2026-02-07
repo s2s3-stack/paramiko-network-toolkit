@@ -1,7 +1,7 @@
 SQL Server有两类数据库
 	系统数据库
 		1,master (主数据库) ：记录SQL Server系统的所有系统级别信息，包括系统的登录
-		账户、系统配置设置、数据库文件的位置和SQL Server初始化信息。如果master数据库不可 用，则SQL Server是无法启动的。
+		账户、系统配置设置、数据库文件的位置和SQL Server初始化信息。如果master数据库不可用，则SQL Server是无法启动的。
 		2,model (模板数据库) ：用于在SQL Server实例上创建用户数据库的模板
 		3,msdb (代理数据库) ：SQL Server代理是通过使用msdb来做存储自动化作业定义作
 		业调度、操作定义，触发提醒定义的
