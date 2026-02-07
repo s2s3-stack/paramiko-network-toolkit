@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "4b6b88241dfa8a82",
+    "id": "b9a42e974570addf",
     "type": "split",
     "children": [
       {
-        "id": "c9ed060fa654c359",
+        "id": "13811d94a72b41d9",
         "type": "tabs",
         "children": [
           {
-            "id": "f898bb499a6f1fe7",
+            "id": "44e9a717d09cc9d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "专升本笔记/数据库原理与技术(13009)/第三章 关系数据库语言SQL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "第三章 关系数据库语言SQL"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ac669389eadcb1f",
+    "id": "d30601c1bf3404f1",
     "type": "split",
     "children": [
       {
-        "id": "84d7da7fcc6e59c8",
+        "id": "6e69459cca489197",
         "type": "tabs",
         "children": [
           {
-            "id": "3e53ad1539a48d83",
+            "id": "a1f3cc043c69530e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "eb95a5d2b0c30c42",
+            "id": "eff10a2bff2d4c64",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "e4a0c800bb32aee9",
+            "id": "b2d4f63f89810305",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,51 +78,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
-    "id": "badff1f40cc9361f",
+    "id": "1a1efe3b77386968",
     "type": "split",
     "children": [
       {
-        "id": "2eb8209f89e26c9c",
+        "id": "21290dbb49dc833c",
         "type": "tabs",
         "children": [
           {
-            "id": "41d1b3aaa70df9b8",
+            "id": "2dd00a6fcdf4a035",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库原理与技术(13009)/第五章.md",
+                "file": "专升本笔记/数据结构与算法/第四章 数组,广义表和串.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第五章 的反向链接列表"
+              "title": "第四章 数组,广义表和串 的反向链接列表"
             }
           },
           {
-            "id": "889c3887b974ad8d",
+            "id": "0b33ec1cc1afcd72",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库原理与技术(13009)/第五章.md",
+                "file": "专升本笔记/数据结构与算法/第四章 数组,广义表和串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第五章 的出链列表"
+              "title": "第四章 数组,广义表和串 的出链列表"
             }
           },
           {
-            "id": "4d6027701d91fd66",
+            "id": "869dc1e82a2b7a9e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "c042b55a3cb18038",
+            "id": "697a3337b0756b25",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,21 +151,21 @@
             }
           },
           {
-            "id": "eda7db8ec75c71be",
+            "id": "9e2e9814c02f1c46",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "专升本笔记/数据结构与算法/第四章 数组,广义表和串.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "第四章 数组,广义表和串 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,36 +174,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "f898bb499a6f1fe7",
+  "active": "a1f3cc043c69530e",
   "lastOpenFiles": [
+    "专升本笔记/数据库原理与技术(13009)/第九章 SQL Server数据库技术.md",
+    "专升本笔记/数据库原理与技术(13009)/第八章 MySQL 后台技术与Python编程.md",
+    "专升本笔记/数据库原理与技术(13009)/第一章-数据库概论.md",
+    "专升本笔记/数据库原理与技术(13009)/第六章 存储结构.md",
+    "专升本笔记/数据库原理与技术(13009)/第七章 数据库保护技术.md",
+    "专升本笔记/数据库原理与技术(13009)/第五章-数据库设计.md",
+    "专升本笔记/数据库原理与技术(13009)/第四章 关系数据库的规范化设计.md",
+    "专升本笔记/数据库原理与技术(13009)/第二章 关系数据库的基础.md",
+    "专升本笔记/数据库原理与技术(13009)/第三章 关系数据库语言SQL.md",
+    "专升本笔记/马克思主义原理/真题-5.md",
+    "专升本笔记/数据结构与算法/第四章 数组,广义表和串.md",
+    "专升本笔记/数据结构与算法/第一章.md",
+    "专升本笔记/数据结构与算法/第三章 栈和队列.md",
+    "专升本笔记/数据结构与算法/第二章 线性表.md",
     "C++/基础课程.md",
-    "计算机网络原理(04741)/第七章 无线与移动网络.md",
-    "数据库原理与技术(13009)/第二章 关系数据库的基础.md",
-    "马克思主义原理/真题-5.md",
-    "数据库原理与技术(13009)/第六章 存储结构.md",
-    "马克思主义原理",
     "C++/安装.md",
-    "数据结构与算法/第三章.md",
-    "C++",
-    "计算机网络原理(04741)/第一章-计算机网络概述.md",
-    "计算机网络原理(04741)/第六章-物理层.md",
-    "数据库原理与技术(13009)/第一章-数据库概论.md",
-    "数据库原理与技术(13009)/第五章-数据库设计.md",
-    "数据库原理与技术(13009)/第四章.md",
-    "数据库原理与技术(13009)/第三章.md",
-    "未命名.base",
-    "Pasted image 20260118192318.png",
-    "数据结构与算法/第二章.md",
-    "数据结构与算法/第一章.md",
-    "未命名 1.base"
+    "C++/First_Page.exe",
+    "专升本笔记/C++/基础课程.md"
   ]
 }
